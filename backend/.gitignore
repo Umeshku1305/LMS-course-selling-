@@ -1,8 +1,5 @@
 .env
 node_modules
-# routes
-admin.route.js
-
 
 models
 config.js
