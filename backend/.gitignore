@@ -1,9 +1,24 @@
 .env
 node_modules
 
-models
+# models
+admin.model.js
+course.model.js
+order.model.js
+purchase.model.js
+
+
 config.js
 index.js
-controllers
-middlewares
-index.js
+
+# controllers
+admin.controller.js
+course.controller.js
+order.controller.js
+user.controller.js
+
+# middlewares
+admin.mid.js
+user.mid.js
+.env
+
