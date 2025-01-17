@@ -3,7 +3,6 @@ node_modules
 
 # models
 admin.model.js
-course.model.js
 order.model.js
 purchase.model.js
 
