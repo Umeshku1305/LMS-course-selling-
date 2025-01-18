@@ -3,7 +3,7 @@ node_modules
 
 # models
 admin.model.js
-order.model.js
+
 purchase.model.js
 
 
