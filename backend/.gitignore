@@ -2,7 +2,6 @@
 node_modules
 
 # models
-admin.model.js
 
 purchase.model.js
 
