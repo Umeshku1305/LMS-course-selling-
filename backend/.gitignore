@@ -9,7 +9,7 @@ index.js
 admin.controller.js
 course.controller.js
 order.controller.js
-user.controller.js
+
 
 # middlewares
 admin.mid.js
