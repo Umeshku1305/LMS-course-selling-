@@ -6,7 +6,7 @@ config.js
 index.js
 
 # controllers
-admin.controller.js
+
 course.controller.js
 
 
