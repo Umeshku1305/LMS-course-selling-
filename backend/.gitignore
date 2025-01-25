@@ -5,13 +5,10 @@ node_modules
 config.js
 index.js
 
-# controllers
 
 
 
-
-# middlewares
 admin.mid.js
-user.mid.js
+
 .env
 
