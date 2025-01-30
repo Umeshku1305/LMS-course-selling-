@@ -1,4 +1,9 @@
-src
+admin
+components 
+utils
+app.css
+app.jsx
+index.css
 
 # Logs
 logs
