@@ -1,4 +1,12 @@
-admin
+# admin
+
+AdminSignup.jsx
+CourseCreate.jsx
+Dashboard.jsx
+OurCourses.jsx
+UpdateCourse.jsx
+
+
 components 
 utils
 app.css
