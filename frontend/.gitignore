@@ -4,7 +4,14 @@
 
 
 
-components 
+# components 
+Buy.jsx
+Courses.jsx
+
+Login.jsx
+Purchases.jsx
+Signup.jsx
+
 
 app.css
 app.jsx
